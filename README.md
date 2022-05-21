@@ -1,10 +1,15 @@
-# Project Name
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
+# Brazillian E-commerce Olist: Guidance for new seller
+This project is the final project from Data Science Bootcamp at Coder School, VN
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: Completed
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+- The purpose of this project is to provide nessesary and important informations for new seller who wish to enter this new online platform in Brazil 
+- Clarify 3 main questions for new sellers: 
+   + What to sell ? 
+   + Where are the potential customers ?
+   + When to sell ?
+- Provide solutions based on these 3 criterias
 
 ### Partner
 * [Name of Partner organization/Government department etc..]
@@ -13,47 +18,30 @@ The purpose of this project is ________. (Describe the main goals of the project
 * If you do not have a partner leave this section out
 
 ### Methods Used
-* Inferential Statistics
 * Machine Learning
 * Data Visualization
-* Predictive Modeling
-* etc.
 
-### Technologies
-* R 
+### Technologies 
 * Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+* Pandas, Seaborn, Matplotlib
+* LDA model
+* Bag of Word
+* Google trans
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+- The data of this project came from kaggle (Brazilian E-Commerce Public Dataset by Olist). Our team firstly formed a big question about what are the product that were becoming popular as well as those that received fewer support by customers. Nevertheless, we then redirected our big questions into helping new sellers who try to join this online platflorm and used the original big question as a key point to help answer the new question. We firstly try to apply data cleaning and then do some visualizations on finding top trending products. Then we draw charts and defined specific time zone in which customers paid the most and lastly we analyzed comments left by customers in order to find out what are the problems customer usually criticised about.
+- Throughout the entire project, we used various of techniques in visualizing as well as cleaning / selecting relavants columns from the dataset such as seaborn countplot, pivot table, convert long from to wide form, etc. Furthermore, we also used scikit learn to apply machine learning for analyzing comments, grouping comments into top 10 topics and defined top mentioned term. For example: I still received product, I did not recieve the product, etc.
+-  The big problems we had is to define the big question and find key ideas to support it. Not only did the big question need to be attractive and realistic, but also the key ideas to support it had to be indepth and clearness.
 
 ## Needs of this project
-
-- frontend developers
-- data exploration/descriptive statistics
+- data exploration
 - data processing/cleaning
-- statistical modeling
 - writeup/reporting
-- etc. (be as specific as possible)
+- presentation skills
 
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Notebook/Markdown/Slide Deck Title](link)
@@ -72,7 +60,3 @@ The purpose of this project is ________. (Describe the main goals of the project
 |[Full Name](https://github.com/[github handle])| @johnDoe        |
 |[Full Name](https://github.com/[github handle]) |     @janeDoe    |
 
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
