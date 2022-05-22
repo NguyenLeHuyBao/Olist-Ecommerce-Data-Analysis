@@ -40,5 +40,5 @@ This project is the final project from Data Science Bootcamp at Coder School, VN
 ## Contributing Members
 
 **Team member 1 (Contacts) : VO THI UT DU (https://github.com/VoThiUtDu)**
-**Team member 1 (Contacts) : HOANG TUAN MINH (https://github.com/minhht0212)**
+**Team member 2 (Contacts) : HOANG TUAN MINH (https://github.com/minhht0212)**
 
