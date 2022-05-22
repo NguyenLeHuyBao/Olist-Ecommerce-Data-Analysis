@@ -11,12 +11,6 @@ This project is the final project from Data Science Bootcamp at Coder School, VN
    + When to sell ?
 - Provide solutions based on these 3 criterias
 
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
-
 ### Methods Used
 * Machine Learning
 * Data Visualization
@@ -43,20 +37,8 @@ This project is the final project from Data Science Bootcamp at Coder School, VN
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+## Contributing Members
 
-
-## Contributing DSWG Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
-
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
+**Team member 1 (Contacts) : VO THI UT DU (https://github.com/VoThiUtDu)**
+**Team member 1 (Contacts) : HOANG TUAN MINH (https://github.com/minhht0212)**
 
